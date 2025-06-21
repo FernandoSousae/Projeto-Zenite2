@@ -1,0 +1,22 @@
+# Arquivo de configuração de ambiente - ESSENCIAL PARA A SEGURANÇA!
+.env
+
+# Arquivos de ambiente virtual do Python
+venv/
+*.pyc
+__pycache__/
+.Python
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de editores de código
+.vscode/
+.idea/
+
+# Arquivos de dependências (se usarmos no futuro)
+node_modules/
+
+# Arquivos de log
+*.log
